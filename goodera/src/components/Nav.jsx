@@ -56,7 +56,7 @@ const Navigate = styled.div`
 
 const Outer = styled.header`
   display: flex;
-  position: sticky;
+  position: block;
   flex-direction: column;
   width: 80%;
   padding: 52px 10%;
